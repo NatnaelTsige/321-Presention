@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z42zhSvTK8/UWxhTWaHC1uxeJvX2D1fNm/aCqM7fFLYagDf5Z01QqABId4cF7PfwWIhPHE/PFiq7sCV4pku1sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Natek\\Desktop\\SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natek\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
